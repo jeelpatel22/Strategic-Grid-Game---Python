@@ -57,25 +57,3 @@ Improved Animations: Adding smoother transitions and more interactive elements t
 Unit Testing
 The hash table implementation is tested using Python's unittest module. Unit tests ensure that all hash table functionalities (insertion, deletion, modification, and resizing) work correctly under various conditions.
 
-
-
-
-# Strategic-Grid-Game---Python
-initgit
-add
-README.mdgit
-commit
--m
-first commit
-git
-branch
--M
-maingit
-remote
-add
-origin
-https://github.com/jeelpatel22/Strategic-Grid-Game---Python.gitgit
-push
--u
-origin
-main
