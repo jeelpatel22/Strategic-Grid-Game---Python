@@ -56,4 +56,3 @@ Alpha-Beta Pruning: Implementing alpha-beta pruning to improve AI performance by
 Improved Animations: Adding smoother transitions and more interactive elements to make the game visually appealing.
 Unit Testing
 The hash table implementation is tested using Python's unittest module. Unit tests ensure that all hash table functionalities (insertion, deletion, modification, and resizing) work correctly under various conditions.
-
